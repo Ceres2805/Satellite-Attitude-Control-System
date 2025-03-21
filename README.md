@@ -20,7 +20,7 @@ This repository contains MATLAB code and Simulink models for analyzing and desig
 
 ## Visualizations
 ### Step Responses
-<div style="display: flex; justify-content: space-around; align-items: center;">
+<div style="display: flex; justify-content: space-around; align-items: center; width: 50%;">
 
 <div style="text-align: center;">
 <h4>Step Response Satellite</h4>
@@ -35,7 +35,7 @@ This repository contains MATLAB code and Simulink models for analyzing and desig
 </div>
 
 ### Bode Plot
-<div style="display: flex; justify-content: space-around; align-items: center;">
+<div style="display: flex; justify-content: space-around; align-items: center; width: 50%;">
 
 <div style="text-align: center;">
 <h4>Bode Plot Satellite</h4>
@@ -50,7 +50,7 @@ This repository contains MATLAB code and Simulink models for analyzing and desig
 </div>
 
 ### Root Locus
-<div style="display: flex; justify-content: space-around; align-items: center;">
+<div style="display: flex; justify-content: space-around; align-items: center; width: 50%;">
 
 <div style="text-align: center;">
 <h4>Root Locus Satellite</h4>
